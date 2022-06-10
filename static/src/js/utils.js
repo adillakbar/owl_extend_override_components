@@ -1,5 +1,5 @@
 odoo.define(
-  "owl_tutorial_extend_override_components.utils",
+  "owl_extend_override_components.utils",
   function (require) {
     "use strict";
     class AlreadyDefinedPatchError extends Error {
